@@ -1,0 +1,2 @@
+# ejercicioPares
+Ejercicio Jesus Ramón
